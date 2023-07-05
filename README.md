@@ -1,4 +1,4 @@
-# Narrative Muse
+# [Narrative Muse](https://www.narrativemuse.com/)
 
 ![narrative](https://github.com/e-for-eshaan/nm/assets/76566992/aecd85f5-d6e8-4976-8711-ec406ddd6e7b)
 
