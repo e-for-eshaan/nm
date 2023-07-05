@@ -2,7 +2,7 @@
 
 ![narrative](https://github.com/e-for-eshaan/nm/assets/76566992/aecd85f5-d6e8-4976-8711-ec406ddd6e7b)
 
-The website "https://www.narrativemuse.com/" appears to be the official website of Narrative Muse, a platform dedicated to promoting diverse voices and storytelling in film and television. Here's an overview of the website and its purpose:
+This was one of my clients when I was interning at Techwondoe. This was built using NextJS and Tailwind CSS, along with Redux. It was a platform dedicated to promoting diverse voices and storytelling in film and television.
 
 ## 1. Design and Layout:
 
